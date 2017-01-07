@@ -21,7 +21,7 @@ This way the user doesn't have to tap anywhere to use this app. Just launch the 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://imgur.com/a/4f5ps' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
+<img src='http://imgur.com/xuruQ5f'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
